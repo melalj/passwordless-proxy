@@ -1,0 +1,19 @@
+{
+  "name": "passwordless-proxy",
+  "version": "1.0.0",
+  "description": "Proxy",
+  "main": "index.js",
+  "author": "Simo Elalj <simo@tonoid.com>",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No tests'; exit 0;"
+  },
+  "dependencies": {
+    "proxy-chain": "1.0.4"
+  },
+  "devDependencies": {
+    "eslint": "8.2.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-plugin-import": "2.25.2"
+  }
+}
