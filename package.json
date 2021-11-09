@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Proxy",
   "main": "index.js",
+  "license": "MIT",
   "author": "Simo Elalj <simo@tonoid.com>",
   "scripts": {
     "start": "node index.js",
