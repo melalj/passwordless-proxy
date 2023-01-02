@@ -1,6 +1,6 @@
 # Passwordless Proxy
 
-Expose a proxy without credentials using `proxy-chain`
+Expose a proxy without credentials using [proxy-chain](https://github.com/apify/proxy-chain)
 
 ```sh
 PROXY_URL=http://user:pass@yourproxy.com:2000
